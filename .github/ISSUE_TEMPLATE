@@ -7,39 +7,40 @@ assignees: ''
 
 ---
 
+<!-- Thank you so much for your interest in submitting a bug report! Please fill out the form to the best of your ability. The more information you supply, the better help it will be in solving the issue! FYI: the lines below that start and end with `<!` and `>` will not be visible in your bug report, and you are free to leave or delete them. -->
 
 ## Describe the issue
-A clear, concise description of what the issue is.
+<!-- A clear, concise description of what the issue is. -->
 
 ## How can you reproduce it?
 Steps to reproduce the behavior:
 
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
+2. Tap on '...'
+3. Scroll down to '...'
 4. See error/crash
+
+## What's the expected behavior?
+<!-- A clear, concise description of what you expected to happen. -->
+
+## How reproducible is this issue?
+<!-- Can you reproduce it every time? Sometimes? Only once? -->
 
 ## Device Information
 
 <!-- The iOS version this bug occurred on (can be found in iOS Settings > General). Please include whether or not you are using a beta version of iOS -->
-**iOS version**:
+iOS Version:
 
 <!-- The version of MyAniList the bug occurred on (can be found in MyAniList's Settings tab > About, at the top) -->
-**MyAniList version**:
+MyAniList Version:
 
 <!-- The device you used. e.g. iPhone 12 Pro, iPad mini, etc. -->
-**iOS device**:
+iOS Device:
 
 <!-- Whether or not your device is jailbroken -->
-**Jailbroken**:
+Jailbroken:
 
 ## Additional Information
-
-<!-- Can you reproduce it every time? Sometimes? Only once? -->
-**Reproducible:**
-
-### Expected behavior
-<!-- A clear, concise description of what you expected to happen. -->
 
 ### Screenshots
 <!-- If possible, add screenshots to help demonstrate the problem. -->
@@ -47,5 +48,5 @@ Steps to reproduce the behavior:
 ### Video
 <!-- If possible, attach a video to help demonstrate the problem. You can attach a video by uploading it to Streamable, Gfycat, YouTube, etc. and pasting the URL here. -->
 
-**Additional Context**
-<!-- Add any other context about the problem here (e.g. "It only happens when I tap on this voice actor," "It works on iOS 13, but not iOS 14," etc.) -->
+### Additional Context
+<!-- Add any other helpful context about the problem here (e.g. "It only happens when I tap on this voice actor," "It works on iOS 13, but not iOS 14," etc.) -->
