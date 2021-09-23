@@ -1,0 +1,38 @@
+---
+name: Bug Report
+about: Create a bug report for MyAniList.
+title: ''
+labels: bug
+assignees: ''
+
+---
+
+**Describe the issue**
+A clear, concise description of what the issue is.
+
+**How can you reproduce it?**
+Steps to reproduce the behavior:
+
+1. Go to '...'
+2. Click on '....'
+3. Scroll down to '....'
+4. See error/crash
+
+<!-- The iOS version this bug occurred on (can be found in iOS Settings > General). Please include whether or not you are using a beta version of iOS -->
+**iOS version**:
+**MyAniList version**: The version of MyAniList the bug occurred on (can be found in MyAniList's Settings tab > About, at the top)
+**iOS device**: e.g. iPhone 12 Pro, iPad mini, etc.
+**Jailbroken**: Whether or not your device is jailbroken
+**Reproducible:** Can you reproduce it every time? Sometimes? Only once?
+
+**Expected behavior**
+A clear, concise description of what you expected to happen.
+
+**Screenshots**
+If possible, add screenshots to help demonstrate the problem.
+
+**Video**
+If possible, attach a video to help demonstrate the problem. You can attach a video by uploading it to Streamable, Gfycat, YouTube, etc. and pasting the URL here.
+
+**Additional context**
+Add any other context about the problem here (e.g. "It only happens when I tap on this voice actor," "It works on iOS 13, but not iOS 14," etc.)
