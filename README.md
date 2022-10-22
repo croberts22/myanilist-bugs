@@ -4,7 +4,7 @@
 
 # MyAniList Bug Tracker 🐛
 
-This is a public repository used to track issues for the 3rd party AniList app, [MyAniList](https://coreyroberts.io/myanilist). If you have a bug to report, you can check the [Issues](https://github.com/croberts22/myanilist-bugs/issues) tab to see if someone else has reported it. Since feedback is often filed in separate, disparate areas (like Discord, email, and Fider), I wanted to create a canonical source where people can report and view any outstanding bugs that have been ticketed. I can't promise I can get to all of them immediately, but it'll help me figure out which issues have been impacting people the most! Plus, I want to know what issues you've encountered that I might not have found!
+This is a public repository used to track issues for the 3rd party AniList app, [MyAniList](https://myanilist.app). If you have a bug to report, you can check the [Issues](https://github.com/croberts22/myanilist-bugs/issues) tab to see if someone else has reported it. Since feedback is often filed in separate, disparate areas (like Discord, email, and Fider), I wanted to create a canonical source where people can report and view any outstanding bugs that have been ticketed. I can't promise I can get to all of them immediately, but it'll help me figure out which issues have been impacting people the most! Plus, I want to know what issues you've encountered that I might not have found!
 
 ### Awesome, so how do I report a bug?
 
