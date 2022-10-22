@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5875ae65e6f2e1750637df96/1514386934441-EFXMBQI5ZPY05CN8BKDA/app_icon.png" width=200 />
+  <img src="https://github.com/croberts22/myanilist-bugs/blob/main/assets/logo.png" width=200 />
 </p>
 
 # MyAniList Bug Tracker 🐛
