@@ -24,6 +24,12 @@ As I mentioned, any information on how to reproduce the issue is the best way to
 
 Sometimes, bugs aren't always 100% reproducible. Letting me know how often you think it happens (i.e. "I can get the screen to crash on this anime 2 out of 5 times"), then that also helps! Any information is helpful. 🙂
 
+### How can I test when certain bugs get fixed?
+
+You can either way for the App Store version to get released, or you can [sign up for our betas](https://testflight.apple.com/join/UtPWYb9D) in TestFlight to try out changes right when they're fixed! 
+
+NOTE: While I make every effort to keep them bug-free, betas are generally less stable than App Store versions. Please be aware of this before joining the beta group.
+
 ### Why Github?
 
 [Github](https://github.com/) is a great website used by developers to publish code, documentation, issues, and releases. It helps cut down on a lot of the noise that often shows up in Discord and the numerous emails I get through in-app feedback. Because I'm in grad school and also work full-time, it's difficult for me to keep up on everyone's thoughtful feedback. Keeping things enumerated here really helps me out! 
