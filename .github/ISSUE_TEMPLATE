@@ -31,7 +31,7 @@ Steps to reproduce the behavior:
 <!-- The iOS version this bug occurred on (can be found in iOS Settings > General). Please include whether or not you are using a beta version of iOS -->
 iOS Version:
 
-<!-- The version of MyAniList the bug occurred on (can be found in MyAniList's Settings tab > About, at the top) -->
+<!-- The version of MyAniList the bug occurred on (can be found by going to your profile tab, then tapping on the Settings icon in the top-right, then "About") -->
 MyAniList Version:
 
 <!-- The device you used. e.g. iPhone 12 Pro, iPad mini, etc. -->
